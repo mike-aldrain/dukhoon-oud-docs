@@ -45,7 +45,7 @@ Tip: upload your logo as a **transparent PNG** in a light or gold colour. The he
 
 ## 4. Support
 
-Email: tools@javalogix.ca
+Email: mike@javalogix.ca
 
 ---
 
@@ -87,4 +87,4 @@ Email: tools@javalogix.ca
 
 ### ٤. الدعم
 
-البريد: tools@javalogix.ca
+البريد: mike@javalogix.ca
